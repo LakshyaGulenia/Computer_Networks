@@ -19,7 +19,7 @@ The OSI model is divided into seven distinct layers, each with specific roles:
 
 Below is an illustration of the OSI model, showcasing each layer and its role in the data communication process.
 
-![OSI Model Diagram](./osi.png")
+![OSI Model Diagram](osi.png)
 
 ---
 
