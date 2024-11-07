@@ -40,3 +40,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### Additional Information
 
 Each layer in the OSI model builds upon the previous one to ensure seamless communication between devices. Understanding each layer is essential for network troubleshooting and developing efficient networked applications.
+
+- `traceroute <website name>`: This command shows the path your connection takes to reach the specified website.
+- `nslookup <website name>`: This command retrieves the IP address of the specified website.
+
